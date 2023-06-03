@@ -1,0 +1,12 @@
+{
+  "name": "ball",
+  "version": "0.1.0",
+  "source": "./src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
